@@ -1,7 +1,7 @@
 ### Soy [Leonardo Zambrano][website] Desarrollador Web FullStack!! 👋
 
 
-<img src="file:///C:/Users/lzaso/Downloads/linkedin.svg" alt="linkedin">
+<img src="https://e7.pngegg.com/pngimages/1007/578/png-clipart-linkedin-linkedin.png" alt="linkedin">
 
 
 
