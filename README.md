@@ -1,25 +1,25 @@
-### Soy [Leonardo Zambrano][website] Desarrollador Web FullStack!! 👋
-
-
-<img src="https://media.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif" />
-
+## Hi There :v:
 ---
 
-### Quien soy
+### Soy [Leonardo Zambrano][website] Desarrollador Web FullStack!! 👋
+---
+I am a professional technician in software :rocket: development at the Universidad Politecnico GranColombiano :mortar_board:.
+I am passionate about technology and web development, :octocat: I like to study a lot and train myself in web development technologies.
+I am currently studying a frontend web development bootcamp, :muscle: I really like the challenges to solve them through development.
+[<img src="https://media.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif" />][website]
+---
 
-Soy Tecnico Profesional en Desarrollo e implentación de software :football: 
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+A little more about me...
+
+- 🔭 I’m currently working on training as a fullstack web developer
+- 🌱 I’m currently learning react, redux and more
+- 👯 I’m looking to collaborate on social projects
+- 🤔 I’m looking for help with how to get a job
+- 💬 Ask me about everything, I like to help
+- 📫 How to reach me: lzambranoa.software@gmail.com
 
 <!-- links -->
 [website]: https://www.lzasoftwaresoluciones.com
