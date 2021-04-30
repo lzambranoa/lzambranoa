@@ -1,8 +1,13 @@
 ### Soy [Leonardo Zambrano][website] Desarrollador Web FullStack!! 👋
 
 
-<img src="https://e7.pngegg.com/pngimages/1007/578/png-clipart-linkedin-linkedin.png" alt="linkedin">
+<img src="https://media.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif" />
 
+---
+
+### Quien soy
+
+Soy Tecnico Profesional en Desarrollo e implentación de software :football: 
 
 
 Here are some ideas to get you started:
