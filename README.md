@@ -1,7 +1,7 @@
 ### Soy [Leonardo Zambrano][website] Desarrollador Web FullStack!! 👋
 
 
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FSoftwareLza)
+<img src="file:///C:/Users/lzaso/Downloads/linkedin.svg" alt="linkedin">
 
 
 
